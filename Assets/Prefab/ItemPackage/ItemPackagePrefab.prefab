@@ -53,7 +53,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: 
   packageType: 0
-  itemPrefab: {fileID: 0}
+  itemPrefab: {fileID: 1414216031374392, guid: 6ead8a12a4a28eb4db17ca8920ffd393, type: 2}
   otherHandItemPrefab: {fileID: 0}
-  previewPrefab: {fileID: 0}
-  fadedPreviewPrefab: {fileID: 0}
+  previewPrefab: {fileID: 1414216031374392, guid: 090b2f9636cfbee4ea1a9265c0eb28bd,
+    type: 2}
+  fadedPreviewPrefab: {fileID: 1414216031374392, guid: f6835041e98c67a4a8c849b286ede950,
+    type: 2}
