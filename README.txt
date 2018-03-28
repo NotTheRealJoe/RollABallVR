@@ -15,3 +15,6 @@ Also, I tested this throghout on the Oculus, but it should work on the Vive as w
 Sometimes the controllers do not show up when you run the game, as far as I can tell this
 is a problem with SteamVR and you just need to try to restart the game making sure the
 controllers are in view of the sensors when you do.
+
+Note that there is not really any actual "game" here, there are no collectables and
+nothing to really do other than move the ball around.
